@@ -2,7 +2,7 @@
 /**
  * Este programa cifra y descifra texto utilizando los algoritmos rijndael
  *
- * @author Ricardo Rosero (Napster - rrosero2000@gmail.com)
+ * @author Ricardo Rosero (n4p5t3r - rrosero2000@gmail.com)
  */
 
 if( isset( $_POST['cifrar'] ) != '' &&  isset( $_POST['key_cif'] ) != '' ){
